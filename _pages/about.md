@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "LI XU's Academic Homepage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
